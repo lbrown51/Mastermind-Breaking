@@ -1,0 +1,7 @@
+Author : Lenny Brown
+Project 1
+
+
+I'm not really sure what run steps I can show. So blank.
+Compile Instructions : Contents : 6 java files file as requested, readme, output. mainMastermind has the main method 
+in it. You should compile from there I'm pretty sure.
